@@ -1,31 +1,25 @@
-# Massage to reviewer,
-Here is some information for your help it rate it well. You Might check these according the mission,
+# Some of feature as a mission,
 
-#  Have a working webpage with multiple draggable windows
-- Yes, i have made a working webpage with multiple draggable windows. It uses html files, so please wait while loading. Everything is actually working.
+# i have made a working webpage with multiple draggable windows.
 
 
-#  It should look like your own and not exactly like the guide
- Yes, It has it own design.
+# It has it own design.
 
-#  Have at least 3 devlogs showing your progress along the way
- Unfortunetly, I forgotted to post the devlogs, I apologize for the mistake. Please accept my aplogy and forgive me.
+# It have 3 games, which is out of guide.
 
-# Have at least 1 new feature that the guide didn’t list
-Yes, It have many apps, which was not told in guide.
+# It don't have any password. Anyone can play it via the link
 
-# It shouldn’t have a password (so anyone can test it out!)
-Yes, It don't have any password. Anyone can play it via the link
+# It uses so low amount of AI, about just 5% for fixing bugs.
+
+# It take some time to load app, please wait.
 
 # WebOS
 I have created a webos, here is about it,
+It has 3 mini games, like,
+1, Python learner
+2, Snake game
+3, Flappy bird
 
-1, Added a Calculator which is really works
-2, Updated the window style and its header
-3, added a google search option
-4, instead just one wallpaper, i used a api key to fetch new wallpaper every time.
-5, updated the color and design of quick notes.
-6, made every css, js, html files separated from each other. it helps to solve erros more fast and easily
-7, updated the Guide into a welcome page.
+Every window is draggable. And it has it own design. Like, if you open a game, it will open a window for it. Similarly for others. You can move it as well. It can take time to open a window, please wait. Do not refresh the page while the page is loading.
 
-for watching the demo, go to - https://tanzil-alam.github.io/WebOS4/
+for watching the demo, go to - https://tanzil-alam.github.io/WebOS--/
