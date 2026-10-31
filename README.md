@@ -13,6 +13,8 @@
 
 # It take some time to load app, please wait.
 
+# It takes time to load, Don't think its failed.
+
 # WebOS
 I have created a webos, here is about it,
 It has 3 mini games, like,
